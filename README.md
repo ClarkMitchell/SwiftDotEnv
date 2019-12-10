@@ -1,4 +1,4 @@
-# SwiftDotEnv
+# Swift DotEnv
 
 Swift 4 library that loads environment variables from `.env` into the environment inspired by the [Ruby dotenv][1] and [PHP dotenv][2] projects.
 
